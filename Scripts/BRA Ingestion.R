@@ -1,5 +1,5 @@
 ##################################################
-#  Shapefile Data Ingestions
+#  Shapefile Data Ingestion
 ##################################################
 
 # need to convert shapefile into geojson file and simplfy 
